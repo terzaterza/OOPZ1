@@ -1,0 +1,6 @@
+﻿  subeditor.cpp
+D:\VS CPP Projects\OOPZ1\SubEditor\subeditor.cpp(66,11): warning C4018:  '>=': signed/unsigned mismatch
+D:\VS CPP Projects\OOPZ1\SubEditor\subeditor.cpp(102,4): warning C4018:  '<': signed/unsigned mismatch
+D:\VS CPP Projects\OOPZ1\SubEditor\subeditor.cpp(204,4): warning C4018:  '<': signed/unsigned mismatch
+D:\VS CPP Projects\OOPZ1\SubEditor\subeditor.cpp(215,5): warning C4018:  '<': signed/unsigned mismatch
+  SubEditor.vcxproj -> D:\VS CPP Projects\OOPZ1\Debug\SubEditor.lib
