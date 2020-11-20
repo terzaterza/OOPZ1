@@ -187,6 +187,8 @@ namespace oop {
 			_for (i, 0, temp.blocks.size()) {
 				insertSubtitle(temp.blocks[i]->start.as_ms(),
 					temp.blocks[i]->end.as_ms() - temp.blocks[i]->start.as_ms(), temp.blocks[i]->get_text());
+				delete mem_states[mem_states.size() - 1];
+				mem_states.remove(mem_states.size() - 1);
 			}
 		}
 		rearrange();
